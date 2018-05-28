@@ -1,3 +1,3 @@
 # submodule-child
 
-extra line
+extra line...
